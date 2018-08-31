@@ -1,0 +1,122 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Admin\Desktop\New folder\assignment1_2\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml:17:1-39:12
+INJECTED from C:\Users\Admin\Desktop\New folder\assignment1_2\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml:17:1-39:12
+INJECTED from C:\Users\Admin\Desktop\New folder\assignment1_2\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml:17:1-39:12
+INJECTED from C:\Users\Admin\Desktop\New folder\assignment1_2\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml:17:1-39:12
+MERGED from [com.android.support:design:27.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\903953832e0c5140858f411e41062dbe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\f500604c4599629727766ef7188f42df\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\c8555423590533b203f2e038e9057502\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\3af89770fa89fb173a7da736aa2c6299\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\59b95a178632d042082dfc95e736d37c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\f18c53f88e8d3f8d1b871c00b832982f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\44f0913516198a741d6563547152af7b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\3c7e015a6402c1e15f7ba63fb0705b91\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\321428dc00ce0ac9dd761cc1cb142bfe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\ecac14ab2a823e86c31fd6fce657b6dc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\6999f8436491d5dd7bd6143f37d6358e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\10dca20a7c02f9210fc2063381e531ef\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\cd8aef41c87b3ae56e247f8d6cb8df2a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\5b4b5330bdd6e019d3070553d828e7ff\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\2149931328ea4b895e798bd392681ebf\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\eaee32edee93a8b6827bf0d38bb46a19\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\83fe9a1c34e92b24a32dde8829018fb1\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Admin\Desktop\New folder\assignment1_2\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml:17:1-39:12
+INJECTED from C:\Users\Admin\Desktop\New folder\assignment1_2\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml:17:1-39:12
+INJECTED from C:\Users\Admin\Desktop\New folder\assignment1_2\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml:17:1-39:12
+	package
+		ADDED from C:\Users\Admin\Desktop\New folder\assignment1_2\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml:18:5-48
+		INJECTED from C:\Users\Admin\Desktop\New folder\assignment1_2\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Admin\Desktop\New folder\assignment1_2\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Admin\Desktop\New folder\assignment1_2\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Admin\Desktop\New folder\assignment1_2\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml:17:1-39:12
+		INJECTED from C:\Users\Admin\Desktop\New folder\assignment1_2\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Admin\Desktop\New folder\assignment1_2\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Admin\Desktop\New folder\assignment1_2\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml:17:1-39:12
+		INJECTED from C:\Users\Admin\Desktop\New folder\assignment1_2\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Admin\Desktop\New folder\assignment1_2\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml:17:11-69
+application
+ADDED from C:\Users\Admin\Desktop\New folder\assignment1_2\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml:20:5-37:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\c8555423590533b203f2e038e9057502\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\c8555423590533b203f2e038e9057502\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Admin\Desktop\New folder\assignment1_2\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml:25:9-35
+	android:label
+		ADDED from C:\Users\Admin\Desktop\New folder\assignment1_2\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml:23:9-41
+	android:roundIcon
+		ADDED from C:\Users\Admin\Desktop\New folder\assignment1_2\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml:24:9-54
+	android:icon
+		ADDED from C:\Users\Admin\Desktop\New folder\assignment1_2\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from C:\Users\Admin\Desktop\New folder\assignment1_2\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from C:\Users\Admin\Desktop\New folder\assignment1_2\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml:26:9-40
+activity#com.example.android.myaddressbook.ContactsActivity
+ADDED from C:\Users\Admin\Desktop\New folder\assignment1_2\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml:27:9-36:20
+	android:label
+		ADDED from C:\Users\Admin\Desktop\New folder\assignment1_2\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml:29:13-45
+	android:theme
+		ADDED from C:\Users\Admin\Desktop\New folder\assignment1_2\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml:30:13-56
+	android:name
+		ADDED from C:\Users\Admin\Desktop\New folder\assignment1_2\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml:28:13-45
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Admin\Desktop\New folder\assignment1_2\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml:31:13-35:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Admin\Desktop\New folder\assignment1_2\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from C:\Users\Admin\Desktop\New folder\assignment1_2\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Admin\Desktop\New folder\assignment1_2\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from C:\Users\Admin\Desktop\New folder\assignment1_2\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml:34:27-74
+uses-sdk
+INJECTED from C:\Users\Admin\Desktop\New folder\assignment1_2\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Admin\Desktop\New folder\assignment1_2\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Admin\Desktop\New folder\assignment1_2\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\903953832e0c5140858f411e41062dbe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\903953832e0c5140858f411e41062dbe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\f500604c4599629727766ef7188f42df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\f500604c4599629727766ef7188f42df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\c8555423590533b203f2e038e9057502\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\c8555423590533b203f2e038e9057502\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\3af89770fa89fb173a7da736aa2c6299\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\3af89770fa89fb173a7da736aa2c6299\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\59b95a178632d042082dfc95e736d37c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\59b95a178632d042082dfc95e736d37c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\f18c53f88e8d3f8d1b871c00b832982f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\f18c53f88e8d3f8d1b871c00b832982f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\44f0913516198a741d6563547152af7b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\44f0913516198a741d6563547152af7b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\3c7e015a6402c1e15f7ba63fb0705b91\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\3c7e015a6402c1e15f7ba63fb0705b91\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\321428dc00ce0ac9dd761cc1cb142bfe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\321428dc00ce0ac9dd761cc1cb142bfe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\ecac14ab2a823e86c31fd6fce657b6dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\ecac14ab2a823e86c31fd6fce657b6dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\6999f8436491d5dd7bd6143f37d6358e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\6999f8436491d5dd7bd6143f37d6358e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\10dca20a7c02f9210fc2063381e531ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\10dca20a7c02f9210fc2063381e531ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\cd8aef41c87b3ae56e247f8d6cb8df2a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\cd8aef41c87b3ae56e247f8d6cb8df2a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\5b4b5330bdd6e019d3070553d828e7ff\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\5b4b5330bdd6e019d3070553d828e7ff\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\2149931328ea4b895e798bd392681ebf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\2149931328ea4b895e798bd392681ebf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\eaee32edee93a8b6827bf0d38bb46a19\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\eaee32edee93a8b6827bf0d38bb46a19\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\83fe9a1c34e92b24a32dde8829018fb1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Admin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\83fe9a1c34e92b24a32dde8829018fb1\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Admin\Desktop\New folder\assignment1_2\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Admin\Desktop\New folder\assignment1_2\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Admin\Desktop\New folder\assignment1_2\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Admin\Desktop\New folder\assignment1_2\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Admin\Desktop\New folder\assignment1_2\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Admin\Desktop\New folder\assignment1_2\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Admin\Desktop\New folder\assignment1_2\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Admin\Desktop\New folder\assignment1_2\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml
